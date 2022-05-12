@@ -83,7 +83,7 @@ h2 {
 }
 
 .dark img {
-    border-radius: 50%;
+    border-radius: 30%;
 }
 
 @media (min-width: 800px) {
