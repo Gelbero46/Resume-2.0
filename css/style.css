@@ -82,6 +82,10 @@ h2 {
     color: #f1523f;
 }
 
+.dark img {
+    border-radius: 50%;
+}
+
 @media (min-width: 800px) {
     .container {
         display: grid;
